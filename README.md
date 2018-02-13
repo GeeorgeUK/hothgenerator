@@ -11,3 +11,6 @@ still surviving and perhaps you'll find strange structures left over from some a
 
 
 
+
+Known issues:
+1. On 1.12.2, chunks continuously load, resulting in a server crash (out of memory)
